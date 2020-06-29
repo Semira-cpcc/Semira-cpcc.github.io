@@ -7,6 +7,9 @@ color:blue;
 .white{
  color:white;
 }
+.blackBackground{
+  background-color:black;
+}
 .alignLeft{
     text-align:left:
 }
