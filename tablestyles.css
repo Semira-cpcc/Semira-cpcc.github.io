@@ -3,19 +3,19 @@ table {
 }
 
 th{
-  background-color: #53a7f5;
+  background-color:#53a7f5;
   padding: 10px;
 }
   
-  td{
+td{
     borderf:solid 1pt black;
     padding: 10px;
 }
   
 tr:nth-child(even){
-  background-color: #a9c2d1;
+  background-color:#a9c2d1;
 }
 tr:hover{
-  background-color: #baf1ff;
+  background-color:#baf1ff;
   font-weight: bold;
 }
